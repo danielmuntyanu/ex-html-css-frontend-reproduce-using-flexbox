@@ -1,12 +1,19 @@
 # README
 
 ## Etapas:
-1. Escribir un plan de proyecto
-2. Crear archivos `index.html` y `styles.css`.
+1. ✅ Escribir un plan de proyecto.
+    1. ✅ Crear un repositorio locál.
+2. ✅ Crear estructura de proyecto:
+    1. ✅ Cambiar la rama `main` a `dev`.
+    2. ✅ Crear archivos `index.html` y `css/styles.css`.
+    3. ✅ Crear la carpeta `assets/` con `images/` y `fonts/`
+    4. ✅ Push a GitHub repositorio público. 
 3. Averiguar que elementos se necesitan, añadir la estructura.
     - solamente a `index.html`.
     - sin ningún estilo.
 4. Añadir contenido (textos, imagenes).
+    1. Encontrar los imagenes.
+    2. Crear los textos en "Lorum ipsum..."
     - solamente a `index.html`.
     - sin ningún estilo.
 4. Crear CSS classes de cotenedores y de elementos que se repiten.
@@ -16,8 +23,11 @@
     1. Usar Google Chrome developer tools. 
     2. Añadir el código a `styles.css` despues. 
 6. Añadir los fuentes y los estilos de tipografía. 
+    1. Usar Google Fonts.
+    2. Descargarlos a carpeta `assets/fonts`.
+    3. Intentar añadir con `font-face` en `styles.css`.
 7. Añadir los estilos de contenedores y fondo.
-8. Comprobar y corregir todo el sitio web
+8. Comprobar y corregir todo el sitio web.
 9. Merge la rama `dev` con `main`.
 10. Despliegue a GitHub Pages.
 
