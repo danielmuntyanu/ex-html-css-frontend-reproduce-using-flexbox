@@ -1,3 +1,34 @@
+# README
+
+## Etapas:
+1. Escribir un plan de proyecto
+2. Crear archivos `index.html` y `styles.css`.
+3. Averiguar que elementos se necesitan, añadir la estructura.
+    - solamente a `index.html`.
+    - sin ningún estilo.
+4. Añadir contenido (textos, imagenes).
+    - solamente a `index.html`.
+    - sin ningún estilo.
+4. Crear CSS classes de cotenedores y de elementos que se repiten.
+    1. Añadir los a `index.html`.
+    1. Añadir los a `styles.css`.
+5. Trabajar en estructura y flexbox para vista `mobile` y `desktop`.
+    1. Usar Google Chrome developer tools. 
+    2. Añadir el código a `styles.css` despues. 
+6. Añadir los fuentes y los estilos de tipografía. 
+7. Añadir los estilos de contenedores y fondo.
+8. Comprobar y corregir todo el sitio web
+9. Merge la rama `dev` con `main`.
+10. Despliegue a GitHub Pages.
+
+
+
+
+
+
+<br><br><br><br>
+
+
 # Exercise - HTML5 & CSS3 - Frontend - Reproduce using Flexbox
 
 ## Instrucciones
