@@ -19,9 +19,9 @@
 4. ✅ Crear CSS classes de contenedores y de elementos que se repiten.
     1. ✅ Añadir los a `index.html`.
     2. ✅ Añadir los a `styles.css`.
-5. Trabajar en estructura y flexbox para vista `mobile` y `desktop`.
-    1. Usar Google Chrome developer tools. 
-    2. Añadir el código a `styles.css` despues. 
+5. ✅ Trabajar en estructura y flexbox para vista `mobile` y `desktop`.
+    1. ✅ Usar Google Chrome developer tools. 
+    2. ✅ Añadir el código a `styles.css` despues. 
 6. Añadir los fuentes y los estilos de tipografía. 
     1. Usar Google Fonts.
     2. Descargarlos a carpeta `assets/fonts`.

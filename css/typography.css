@@ -1,17 +1,52 @@
-
 h1 {
     font-size: var(--font-size-lg);
     font-weight: bold;
     color: var(--color-title);
     text-align: center;
+    margin: 10px;
 }
 
 h2 {
     font-size: var(--font-size-md);
     color: var(--color-title);
+    margin: 0;
 }
 
 p {
     font-size: var(--font-size-sm);
     color: var(--color-paragraph);
+    margin: 0;
+    padding-left: var(--padding-small);
+    padding-right: var(--padding-small);
+}
+
+a {
+    font-size: var(--font-size-sm);
+    margin: 0;
+}
+
+@media (min-width: 768px) {
+    /* TODO: СДЕЛАТЬ РАЗМЕРЫ ТЕКТА БОЛЬШЕ */
+    
+    p {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media (min-width: 1024px) {
+    
+    h1 {
+        font-size: var(--font-size-2lg);
+    }
+
+    h2 {
+        font-size: var(--font-size-lg);
+    }
+
+    p, a {
+        font-size: var(--font-size-md);
+    }
+
+
 }

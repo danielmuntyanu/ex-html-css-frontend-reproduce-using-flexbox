@@ -1,20 +1,28 @@
-@import "./reset-styles.css";
+/* @import "./reset-styles.css"; */
 @import "./typography.css";
 @import "./layout.css";
-
 
 :root {
     --padding-small: 10px;
     --padding-medium: 20px;
+    --padding-large: 30px;
 
-    --color-bg: #f0f0f0;
+    --gap-small: 10px;
+    --gap-medium: 20px;
+    --gap-large: 30px;
+
+    --color-bg: #cdd9e4;
+    --color-card-bg: #fff;
+
+    
     --color-title: #000000;
     --color-paragraph: #444;
     
-    --border-radius: 10px;
+    --border-radius: 20px;
 
-    --font-size-lg: 32px;
-    --font-size-md: 24px;
+    --font-size-2lg: 44px;
+    --font-size-lg: 36px;
+    --font-size-md: 28px;
     --font-size-sm: 16px;
 }
 
