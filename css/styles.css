@@ -1,8 +1,8 @@
 @font-face {
-    font-family: LatoBold;
+    font-family: LatoBlack;
     weight: bold;
     style: normal;
-    src: url("../assets/fonts/Lato/Lato-Bold.ttf");
+    src: url("../assets/fonts/Lato/Lato-Black.ttf");
 }
 
 @font-face {
@@ -32,14 +32,14 @@
     --border-radius: 20px;
 
     /* === Colors === */
-    --color-bg: #cdd9e4;
+    --color-bg: #c7c7c7;
     --color-card-bg: #fff;
     
     --color-title: #000000;
     --color-paragraph: #444;
     
     /* === Typography === */
-    --font-family-title: LatoBold, sans-serif;
+    --font-family-title: LatoBlack, sans-serif;
     --font-family-subtitle: LatoRegular, sans-serif;
     --font-family-paragraph: Playwrite, sans-serif;
 
