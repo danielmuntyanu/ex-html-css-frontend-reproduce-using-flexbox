@@ -22,11 +22,11 @@
 5. ✅ Trabajar en estructura y flexbox para vista `mobile` y `desktop`.
     1. ✅ Usar Google Chrome developer tools. 
     2. ✅ Añadir el código a `styles.css` despues. 
-6. Añadir los fuentes y los estilos de tipografía. 
-    1. Usar Google Fonts.
-    2. Descargarlos a carpeta `assets/fonts`.
-    3. Intentar añadir con `font-face` en `styles.css`.
-7. Añadir los estilos de contenedores y fondo.
+6. ✅ Añadir los fuentes y los estilos de tipografía. 
+    1. ✅ Usar Google Fonts.
+    2. ✅ Descargarlos a carpeta `assets/fonts`.
+    3. ✅ Añadir con `font-face` en `styles.css`.
+7. ✅ Añadir los estilos de contenedores y fondo.
 8. Comprobar y corregir todo el sitio web.
 9. Merge la rama `dev` con `main`.
 10. Despliegue a GitHub Pages.
