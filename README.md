@@ -11,9 +11,9 @@
 3. ✅ Averiguar que elementos se necesitan, añadir la estructura.
     - solamente a `index.html`.
     - sin ningún estilo.
-4. Añadir contenido (textos, imagenes).
-    1. Encontrar los imagenes.
-    2. Crear los textos en "Lorum ipsum..."
+4. ✅ Añadir contenido (textos, imagenes).
+    1. ✅ Encontrar los imagenes.
+    2. ✅ Crear los textos en "Lorum ipsum..."
     - solamente a `index.html`.
     - sin ningún estilo.
 4. Crear CSS classes de cotenedores y de elementos que se repiten.
