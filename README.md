@@ -16,9 +16,9 @@
     2. ✅ Crear los textos en "Lorum ipsum..."
     - solamente a `index.html`.
     - sin ningún estilo.
-4. Crear CSS classes de cotenedores y de elementos que se repiten.
-    1. Añadir los a `index.html`.
-    1. Añadir los a `styles.css`.
+4. ✅ Crear CSS classes de contenedores y de elementos que se repiten.
+    1. ✅ Añadir los a `index.html`.
+    2. ✅ Añadir los a `styles.css`.
 5. Trabajar en estructura y flexbox para vista `mobile` y `desktop`.
     1. Usar Google Chrome developer tools. 
     2. Añadir el código a `styles.css` despues. 
