@@ -1,4 +1,11 @@
-# README
+# F5 Exercise - HTML5 & CSS3: FlexBox
+
+
+### Enlace a sitio web: 
+[GitHub Pages](https://danielmuntyanu.github.io/ex-html-css-frontend-reproduce-using-flexbox/)
+
+<br>
+
 
 ## Etapas:
 1. ✅ Escribir un plan de proyecto.
@@ -29,9 +36,7 @@
 7. ✅ Añadir los estilos de contenedores y fondo.
 8. ✅ Comprobar y corregir todo el sitio web.
 9. ✅ Merge la rama `dev` con `main`.
-10. Despliegue a GitHub Pages.
-
-
+10. ✅ Despliegue a GitHub Pages.
 
 
 
