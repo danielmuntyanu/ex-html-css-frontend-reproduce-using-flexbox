@@ -8,7 +8,7 @@
     2. ✅ Crear archivos `index.html` y `css/styles.css`.
     3. ✅ Crear la carpeta `assets/` con `images/` y `fonts/`
     4. ✅ Push a GitHub repositorio público. 
-3. Averiguar que elementos se necesitan, añadir la estructura.
+3. ✅ Averiguar que elementos se necesitan, añadir la estructura.
     - solamente a `index.html`.
     - sin ningún estilo.
 4. Añadir contenido (textos, imagenes).
