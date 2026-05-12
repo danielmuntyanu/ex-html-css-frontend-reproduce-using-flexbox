@@ -18,7 +18,7 @@ body {
     flex-direction: column;
 
     gap: var(--gap-medium);
-    padding: var(--padding-medium);
+    padding: var(--padding-large);
     background-color: var(--color-card-bg);
     border: 1px solid #ccc;
     border-radius: var(--border-radius);

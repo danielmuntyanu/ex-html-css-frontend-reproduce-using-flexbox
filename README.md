@@ -27,7 +27,7 @@
     2. ✅ Descargarlos a carpeta `assets/fonts`.
     3. ✅ Añadir con `font-face` en `styles.css`.
 7. ✅ Añadir los estilos de contenedores y fondo.
-8. Comprobar y corregir todo el sitio web.
+8. ✅ Comprobar y corregir todo el sitio web.
 9. Merge la rama `dev` con `main`.
 10. Despliegue a GitHub Pages.
 
